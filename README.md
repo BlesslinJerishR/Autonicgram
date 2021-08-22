@@ -58,7 +58,9 @@ Selenium <b>chromedriver</b>.
 
 ## Running
 Execute :
-``python app.py``
+```sh
+python app.py
+```
 
 ## File structure
 
