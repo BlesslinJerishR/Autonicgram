@@ -1,0 +1,7 @@
+images
+.idea/
+__pycache__/
+filesCheck.txt
+filesDict.json
+instagram-scraper.log
+Autoenv
