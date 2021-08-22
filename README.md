@@ -1,7 +1,9 @@
 
 <p align="center">
-<kbd color="red">
-  <img src="https://pbs.twimg.com/profile_images/1232518700/Endhiran-Movie-Wallpapers-6_1_.jpg" width="154" style="border-radius: 8px; border: 3px solid #FF0000;">
+<kbd>
+<span style="border-radius: 8px; border: 3px solid #FF0000;">
+  <img src="https://pbs.twimg.com/profile_images/1232518700/Endhiran-Movie-Wallpapers-6_1_.jpg" width="154"
+</span>
 </kbd>
   <h1 align="center">Autonicgram</h1>
   <p align="center"> <b>Automates</b> your Instagram posts by taking images from sites like 9gag or other Instagram accounts and posting it onto your page.
