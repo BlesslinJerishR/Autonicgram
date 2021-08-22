@@ -1,6 +1,6 @@
 
 <p align="center">
-<kbd>
+<kbd color="red">
   <img src="https://pbs.twimg.com/profile_images/1232518700/Endhiran-Movie-Wallpapers-6_1_.jpg" width="154" style="border-radius: 8px; border: 3px solid #FF0000;">
 </kbd>
   <h1 align="center">Autonicgram</h1>
