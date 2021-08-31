@@ -1,0 +1,55 @@
+1630182514157	geckodriver	INFO	Listening on 127.0.0.1:59287
+1630182517205	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "--user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1" "-foreground" "-no-remote" "-profile" "C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofileiztyb3"
+1630182518184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofileiztyb3\\search.json.mozlz4", (void 0)))
+1630182521638	Marionette	INFO	Listening on port 59295
+1630182522078	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1630182560470	Marionette	INFO	Stopped listening on port 59295
+1630182638337	geckodriver	INFO	Listening on 127.0.0.1:59518
+1630182641418	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "--user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1" "-foreground" "-no-remote" "-profile" "C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofileAr4aBB"
+1630182642229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofileAr4aBB\\search.json.mozlz4", (void 0)))
+1630182645264	Marionette	INFO	Listening on port 59526
+1630182645618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1630182872699	Marionette	INFO	Stopped listening on port 59526
+1630182953440	geckodriver	INFO	Listening on 127.0.0.1:55590
+1630182956532	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "--user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1" "-foreground" "-no-remote" "-profile" "C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofileG51cYn"
+1630182957035	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofileG51cYn\\search.json.mozlz4", (void 0)))
+1630182959834	Marionette	INFO	Listening on port 55598
+1630182960221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1630183252264	Marionette	INFO	Stopped listening on port 55598
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590004,name=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+2.1" "-foreground" "-no-remote" "-profile" "C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofileOpXRAK"
+1630183250496	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofileOpXRAK\\search.json.mozlz4", (void 0)))
+1630183253636	Marionette	INFO	Listening on port 64686
+1630183253764	Marionette	WARN	TLS certificate errors will be ignored for this session
+1630183264737	Marionette	INFO	Stopped listening on port 64686
+1630183285044	geckodriver	INFO	Listening on 127.0.0.1:64741
+1630183288147	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--no-sandbox" "--disable-dev-shm-usage" "--user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) CriOS/56.0.2924.75 Mobile/14E5239e Safari/602.1" "-foreground" "-no-remote" "-profile" "C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofile8DZ7sX"
+1630183288651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\91949\\AppData\\Local\\Temp\\rust_mozprofile8DZ7sX\\search.json.mozlz4", (void 0)))
+1630183291307	Marionette	INFO	Listening on port 64749
+1630183291350	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1630183385691	Marionette	INFO	Stopped listening on port 64749
